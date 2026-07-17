@@ -1,4 +1,4 @@
-<img width="1302" height="452" alt="Time" src="https://github.com/user-attachments/assets/e3fd254a-7dfb-401a-9df6-5440526adfaf" /># ใบงานการทดลองที่ 2-2
+# ใบงานการทดลองที่ 2-2
 # Flutter Framework Basics
 ### วิชา: การพัฒนาซอฟต์แวร์สำหรับอุปกรณ์เคลื่อนที่
 
