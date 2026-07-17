@@ -468,14 +468,38 @@ flutter run
 **✏️ ทดลองแก้ไข C:** เปลี่ยน `MainAxisAlignment.center` ของ Column เป็น `.start`, `.end`, `.spaceBetween`, `.spaceEvenly` ทีละอัน สังเกตการเปลี่ยนแปลง
 
 **บันทึกรูปผลการทดลอง**
-```
-บันทึกรูปที่นี่
-```
+ ทดลองแก้ไข C
+ --------------
+ .start
+ --------------
+<img width="1287" height="1097" alt="Screenshot 2026-07-17 132754" src="https://github.com/user-attachments/assets/f980edca-1454-4d23-86aa-c04584a02a8c" />
+
+ -------------------
+ .end
+ --------------
+<img width="1293" height="1087" alt="Screenshot 2026-07-17 132853" src="https://github.com/user-attachments/assets/edac4cef-dd2b-4faa-9bdc-e257f1c3e0b9" />
+ 
+ -------------------
+ .spaceBetween
+ --------------
+<img width="1296" height="1100" alt="Screenshot 2026-07-17 133035" src="https://github.com/user-attachments/assets/1efb91a4-dfa0-4614-8808-3631924acfeb" />
+ 
+ --------------
+  .spaceEvenly
+ --------------
+<img width="1292" height="1090" alt="Screenshot 2026-07-17 133115" src="https://github.com/user-attachments/assets/c6919287-fcc1-4940-b900-a3ef2e44b960" />
+
+
+ 
+ -------------------
 **✏️ ทดลองแก้ไข D:** ใน Row เพิ่ม Container D สีม่วง ขนาด 80×80 ต่อจาก C
 **บันทึกรูปผลการทดลอง**
-```
-บันทึกรูปที่นี่
-```
+ทดลองแก้ไข D
+---
+  Container D สีม่วง เป็น แบบ .spaceEvenly
+ ---
+ <img width="1297" height="1093" alt="Screenshot 2026-07-17 133359" src="https://github.com/user-attachments/assets/000bf843-6852-44ed-898f-45ae833de39b" />
+
 ---
 
 ### การทดลองที่ 3 — StatelessWidget แรก
