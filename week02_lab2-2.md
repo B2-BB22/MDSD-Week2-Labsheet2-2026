@@ -612,16 +612,21 @@ class InfoCard extends StatelessWidget {
 
 **ขั้นตอนที่ 3** บันทึกและตรวจสอบผล — ควรเห็น Card 3 ใบเรียงกัน
 **บันทึกรูปผลการทดลอง**
-```
-บันทึกรูปที่นี่
-```
+------
+Card 3 ใบ
+------
+<img width="1292" height="1100" alt="Screenshot 2026-07-17 134357" src="https://github.com/user-attachments/assets/54e7deac-ec7b-443b-8e92-533174c71f49" />
+
+----
 
 **✏️ ทดลองแก้ไข E:** เพิ่ม `InfoCard` ที่ 4 แสดง "คณะ" ด้วยไอคอน `Icons.account_balance` สีแดง
 
 **บันทึกรูปผลการทดลอง**
-```
-บันทึกรูปที่นี่
-```
+---
+ทดลองแก้ไข E
+---
+<img width="1302" height="1097" alt="Screenshot 2026-07-17 135150" src="https://github.com/user-attachments/assets/722e35cc-70fc-4470-91fb-3eedda3b3d7d" />
+
 ---
 
 ### การทดลองที่ 4 — StatefulWidget: Counter
